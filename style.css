@@ -1,0 +1,32 @@
+body
+{
+  color: white;
+  background: linear-gradient(90deg, hsla(345, 100%, 50%, 1) 0%, hsla(298, 91%, 67%, 1) 100%);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: #B084CC;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.camera
+{
+  font-size:48px;
+  background-color: #2EC4B6;
+  border: 2px groove #610345;
+}
+#ete{
+background-image: radial-gradient(circle, hsla(175, 100%, 50%, 1) 0%, hsla(291, 100%, 50%, 1) 100%);
+width: 50%;}
